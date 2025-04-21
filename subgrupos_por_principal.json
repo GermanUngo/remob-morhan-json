@@ -1,0 +1,880 @@
+{
+  "01": [
+    {
+      "codigo": "010",
+      "nome": "MEMBROS DAS FORÇAS ARMADAS"
+    }
+  ],
+  "02": [
+    {
+      "codigo": "020",
+      "nome": "OFICIAIS DE POLÍCIA MILITAR"
+    },
+    {
+      "codigo": "021",
+      "nome": "PRAÇAS DE POLÍCIA MILITAR"
+    }
+  ],
+  "03": [
+    {
+      "codigo": "030",
+      "nome": "OFICIAIS DE BOMBEIRO MILITAR"
+    },
+    {
+      "codigo": "031",
+      "nome": "PRAÇAS DE BOMBEIRO MILITAR"
+    }
+  ],
+  "11": [
+    {
+      "codigo": "111",
+      "nome": "MEMBROS SUPERIORES DO PODER LEGISLATIVO, EXECUTIVO E JUDICIÁRIO"
+    },
+    {
+      "codigo": "113",
+      "nome": "CHEFES DE PEQUENAS POPULAÇÕES"
+    },
+    {
+      "codigo": "114",
+      "nome": "DIRIGENTES E ADMINISTRADORES DE ORGANIZAÇÃO DE INTERESSE PÚBLICO"
+    }
+  ],
+  "12": [
+    {
+      "codigo": "121",
+      "nome": "DIRETORES GERAIS"
+    },
+    {
+      "codigo": "122",
+      "nome": "DIRETORES DE PRODUÇÃO E OPERAÇÕES"
+    },
+    {
+      "codigo": "123",
+      "nome": "DIRETORES DE ÁREAS DE APOIO"
+    }
+  ],
+  "13": [
+    {
+      "codigo": "131",
+      "nome": "DIRETORES E GERENTES EM EMPRESA DE SERVIÇOS DE SAÚDE, DE EDUCAÇÃO, OU DE SERVIÇOS CULTURAIS, SOCIAIS OU PESSOAIS"
+    }
+  ],
+  "14": [
+    {
+      "codigo": "141",
+      "nome": "GERENTES DE PRODUÇÃO E OPERAÇÕES"
+    },
+    {
+      "codigo": "142",
+      "nome": "GERENTES DE ÁREAS DE APOIO"
+    }
+  ],
+  "20": [
+    {
+      "codigo": "201",
+      "nome": "PROFISSIONAIS DA BIOTECNOLOGIA E METROLOGIA"
+    },
+    {
+      "codigo": "202",
+      "nome": "PROFISSIONAIS DA ELETROMECÂNICA"
+    },
+    {
+      "codigo": "203",
+      "nome": "PESQUISADORES"
+    },
+    {
+      "codigo": "204",
+      "nome": "PROFISSIONAIS DE INVESTIGAÇÃO CRIMINAL"
+    }
+  ],
+  "21": [
+    {
+      "codigo": "211",
+      "nome": "MATEMÁTICOS, ESTATÍSTICOS E AFINS"
+    },
+    {
+      "codigo": "212",
+      "nome": "PROFISSIONAIS DA INFORMÁTICA"
+    },
+    {
+      "codigo": "213",
+      "nome": "FÍSICOS, QUÍMICOS E AFINS"
+    },
+    {
+      "codigo": "214",
+      "nome": "ENGENHEIROS, ARQUITETOS E AFINS"
+    },
+    {
+      "codigo": "215",
+      "nome": "PROFISSIONAIS EM NAVEGAÇÃO AÉREA, MARÍTIMA E FLUVIAL"
+    }
+  ],
+  "22": [
+    {
+      "codigo": "221",
+      "nome": "BIÓLOGOS E AFINS"
+    },
+    {
+      "codigo": "222",
+      "nome": "AGRÔNOMOS E AFINS"
+    },
+    {
+      "codigo": "223",
+      "nome": "PROFISSIONAIS DA MEDICINA, SAÚDE E AFINS"
+    },
+    {
+      "codigo": "224",
+      "nome": "PROFISSIONAIS DA EDUCAÇÃO FÍSICA"
+    },
+    {
+      "codigo": "225",
+      "nome": "PROFISSIONAIS DA MEDICINA"
+    },
+    {
+      "codigo": "226",
+      "nome": "PROFISSIONAIS DE SAÚDE EM PRATICAS INTEGRATIVAS E COMPLEMENTARES"
+    }
+  ],
+  "23": [
+    {
+      "codigo": "231",
+      "nome": "PROFESSORES DE NÍVEL SUPERIOR NA EDUCAÇÃO INFANTIL E NO ENSINO FUNDAMENTAL"
+    },
+    {
+      "codigo": "232",
+      "nome": "PROFESSORES DO ENSINO MÉDIO"
+    },
+    {
+      "codigo": "233",
+      "nome": "PROFESSORES E INSTRUTORES DO ENSINO PROFISSIONAL"
+    },
+    {
+      "codigo": "234",
+      "nome": "PROFESSORES DO ENSINO SUPERIOR"
+    },
+    {
+      "codigo": "239",
+      "nome": "OUTROS PROFISSIONAIS DO ENSINO NÃO CLASSIFICADOS ANTERIORMENTE"
+    }
+  ],
+  "24": [
+    {
+      "codigo": "241",
+      "nome": "ADVOGADOS, PROCURADORES, TABELIÃES E AFINS"
+    },
+    {
+      "codigo": "242",
+      "nome": "ADVOGADOS DO PODER JUDICIÁRIO E DA SEGURANÇA PÚBLICA"
+    }
+  ],
+  "25": [
+    {
+      "codigo": "251",
+      "nome": "CIENTISTAS SOCIAIS, PSICÓLOGOS E AFINS"
+    },
+    {
+      "codigo": "252",
+      "nome": "PROFISSIONAIS DE ORGANIZAÇÃO E ADMINISTRAÇÃO DE EMPRESAS E AFINS"
+    },
+    {
+      "codigo": "253",
+      "nome": "PROFISSIONAIS DE RELAÇÕES PÚBLICAS, PUBLICIDADE, MARKETING E COMERCIALIZAÇÃO"
+    },
+    {
+      "codigo": "254",
+      "nome": "AUDITORES FISCAIS PÚBLICOS"
+    }
+  ],
+  "26": [
+    {
+      "codigo": "261",
+      "nome": "PROFISSIONAIS DA COMUNICAÇÃO E DA INFORMAÇÃO"
+    },
+    {
+      "codigo": "262",
+      "nome": "PROFISSIONAIS DE ESPETÁCULOS E DAS ARTES"
+    },
+    {
+      "codigo": "263",
+      "nome": "MEMBROS DE CULTOS RELIGIOSOS E AFINS"
+    }
+  ],
+  "27": [
+    {
+      "codigo": "271",
+      "nome": "PROFISSIONAIS EM GASTRONOMIA E SERVIÇOS DE ALIMENTAÇÃO"
+    }
+  ],
+  "30": [
+    {
+      "codigo": "300",
+      "nome": "TÉCNICOS MECATRÔNICOS E ELETROMECÂNICOS"
+    },
+    {
+      "codigo": "301",
+      "nome": "TÉCNICOS EM LABORATÓRIO"
+    }
+  ],
+  "31": [
+    {
+      "codigo": "311",
+      "nome": "TÉCNICO EM CIÊNCIAS FÍSICAS E QUÍMICAS"
+    },
+    {
+      "codigo": "312",
+      "nome": "TÉCNICOS EM CONSTRUÇÃO CIVIL, DE EDIFICAÇÕES E OBRAS DE INFRAESTRUTURA"
+    },
+    {
+      "codigo": "313",
+      "nome": "TÉCNICOS EM ELETROELETRÔNICA E FOTÔNICA"
+    },
+    {
+      "codigo": "314",
+      "nome": "TÉCNICOS EM METALMECÂNICA"
+    },
+    {
+      "codigo": "316",
+      "nome": "TÉCNICOS EM MINERALOGIA E GEOLOGIA"
+    },
+    {
+      "codigo": "317",
+      "nome": "TÉCNICOS EM INFORMÁTICA"
+    },
+    {
+      "codigo": "318",
+      "nome": "DESENHISTAS TÉCNICOS E MODELISTAS"
+    },
+    {
+      "codigo": "319",
+      "nome": "OUTROS TÉCNICOS DE NÍVEL MÉDIO DAS CIÊNCIAS FÍSICAS, QUÍMICAS, ENGENHARIA E AFINS"
+    }
+  ],
+  "32": [
+    {
+      "codigo": "320",
+      "nome": "TÉCNICOS EM BIOLOGIA"
+    },
+    {
+      "codigo": "321",
+      "nome": "TÉCNICOS DA PRODUÇÃO AGROPECUÁRIA"
+    },
+    {
+      "codigo": "322",
+      "nome": "TÉCNICOS DA CIÊNCIA DA SAÚDE HUMANA"
+    },
+    {
+      "codigo": "323",
+      "nome": "TÉCNICOS DA CIÊNCIA DA SAÚDE ANIMAL"
+    },
+    {
+      "codigo": "324",
+      "nome": "TÉCNICOS EM OPERAÇÃO DE EQUIPAMENTOS E INSTRUMENTOS DE DIAGNÓSTICO"
+    },
+    {
+      "codigo": "325",
+      "nome": "TÉCNICOS DE BIOQUÍMICA E DA BIOTECNOLOGIA"
+    },
+    {
+      "codigo": "328",
+      "nome": "TÉCNICOS EM NECRÓPSIA E TAXIDERMISTAS"
+    }
+  ],
+  "33": [
+    {
+      "codigo": "331",
+      "nome": "PROFESSORES DE NÍVEL MÉDIO NA EDUCAÇÃO INFANTIL, NO ENSINO FUNDAMENTAL E NO PROFISSIONALIZANTE"
+    },
+    {
+      "codigo": "332",
+      "nome": "PROFESSORES LEIGOS NO ENSINO FUNDAMENTAL E NO  PROFISSIONALIZANTE"
+    },
+    {
+      "codigo": "333",
+      "nome": "INSTRUTORES E PROFESSORES DE ESCOLAS LIVRES"
+    },
+    {
+      "codigo": "334",
+      "nome": "INSPETORES DE ALUNOS E AFINS"
+    }
+  ],
+  "34": [
+    {
+      "codigo": "341",
+      "nome": "TÉCNICOS EM NAVEGAÇÃO AÉREA, MARÍTIMA E FLUVIAL"
+    },
+    {
+      "codigo": "342",
+      "nome": "TÉCNICOS EM TRANSPORTES (LOGÍSTICA)"
+    }
+  ],
+  "35": [
+    {
+      "codigo": "351",
+      "nome": "TÉCNICOS DAS CIÊNCIAS ADMINISTRATIVAS"
+    },
+    {
+      "codigo": "352",
+      "nome": "TÉCNICOS DE INSPEÇÃO, FISCALIZAÇÃO E COORDENAÇÃO ADMINISTRATIVA"
+    },
+    {
+      "codigo": "353",
+      "nome": "TÉCNICOS DE NÍVEL MÉDIO EM OPERAÇÕES FINANCEIRAS"
+    },
+    {
+      "codigo": "354",
+      "nome": "TÉCNICOS DE NIVEL MÉDIO EM OPERAÇÕES COMERCIAIS"
+    }
+  ],
+  "37": [
+    {
+      "codigo": "371",
+      "nome": "TÉCNICOS DE SERVIÇOS CULTURAIS"
+    },
+    {
+      "codigo": "372",
+      "nome": "TÉCNICOS EM OPERAÇÃO DE CÂMARA FOTOGRÁFICA , CINEMA E DE TELEVISÃO"
+    },
+    {
+      "codigo": "373",
+      "nome": "TÉCNICOS EM OPERAÇÃO DE EMISSORAS DE RÁDIO, SISTEMAS DE TELEVISÃO E DE PRODUTORAS DE VÍDEO"
+    },
+    {
+      "codigo": "374",
+      "nome": "TÉCNICOS EM OPERAÇÃO DE APARELHOS DE SONORIZAÇÃO, CENOGRAFIA E PROJEÇÃO"
+    },
+    {
+      "codigo": "375",
+      "nome": "DECORADORES E VITRINISTAS"
+    },
+    {
+      "codigo": "376",
+      "nome": "ARTISTAS DE ARTES POPULARES E MODELOS"
+    },
+    {
+      "codigo": "377",
+      "nome": "ATLETAS, DESPORTISTAS E AFINS"
+    }
+  ],
+  "39": [
+    {
+      "codigo": "391",
+      "nome": "TÉCNICOS DE NIVEL MÉDIO EM OPERAÇÕES INDUSTRIAIS"
+    },
+    {
+      "codigo": "395",
+      "nome": "TÉCNICOS DE APOIO EM PESQUISA E DESENVOLVIMENTO"
+    }
+  ],
+  "41": [
+    {
+      "codigo": "410",
+      "nome": "SUPERVISORES DE SERVIÇOS ADMINISTRATIVOS (Exceto de atendimento ao público)"
+    },
+    {
+      "codigo": "411",
+      "nome": "ESCRITURÁRIOS EM GERAL, AGENTES, ASSISTENTES E AUXILIARES ADMINISTRATIVOS"
+    },
+    {
+      "codigo": "412",
+      "nome": "SECRETÁRIOS DE EXPEDIENTE E OPERADORES DE MÁQUINAS DE ESCRITÓRIOS"
+    },
+    {
+      "codigo": "413",
+      "nome": "ESCRITURÁRIOS CONTÁBEIS E DE FINANÇAS"
+    },
+    {
+      "codigo": "414",
+      "nome": "ESCRITURÁRIOS DE CONTROLE DE MATERIAIS E DE APOIO À PRODUÇÃO"
+    },
+    {
+      "codigo": "415",
+      "nome": "AUXILIARES DE SERVIÇOS DE BIBLIOTECA, DOCUMENTAÇÃO E CORREIOS"
+    }
+  ],
+  "42": [
+    {
+      "codigo": "420",
+      "nome": "SUPERVISORES DE ATENDIMENTO AO PÚBLICO"
+    },
+    {
+      "codigo": "421",
+      "nome": "CAIXAS, BILHETEIROS E AFINS"
+    },
+    {
+      "codigo": "422",
+      "nome": "TRABALHADORES DE INFORMAÇÕES AO PÚBLICO"
+    },
+    {
+      "codigo": "423",
+      "nome": "DESPACHANTES"
+    },
+    {
+      "codigo": "424",
+      "nome": "ENTREVISTADORES, RECENSEADORES E AFINS"
+    }
+  ],
+  "51": [
+    {
+      "codigo": "510",
+      "nome": "SUPERVISORES DOS SERVIÇOS"
+    },
+    {
+      "codigo": "511",
+      "nome": "TRABALHADORES DOS SERVIÇOS DE TRANSPORTE E TURISMO"
+    },
+    {
+      "codigo": "512",
+      "nome": "TRABALHADORES DOS SERVIÇOS DOMÉSTICOS EM GERAL"
+    },
+    {
+      "codigo": "513",
+      "nome": "TRABALHADORES DOS SERVIÇOS DE HOTELARIA E ALIMENTAÇÃO"
+    },
+    {
+      "codigo": "514",
+      "nome": "TRABALHADORES NOS SERVIÇOS DE ADMINISTRAÇÃO, CONSERVAÇÃO E MANUTENÇÃO DE EDIFÍCIOS E LOGRADOUROS"
+    },
+    {
+      "codigo": "515",
+      "nome": "TRABALHADORES DOS SERVIÇOS DE SAÚDE"
+    },
+    {
+      "codigo": "516",
+      "nome": "TRABALHADORES NOS SERVIÇOS DE EMBELEZAMENTO E CUIDADOS PESSOAIS"
+    },
+    {
+      "codigo": "517",
+      "nome": "TRABALHADORES NOS SERVIÇOS DE PROTEÇÃO E SEGURANÇA"
+    },
+    {
+      "codigo": "519",
+      "nome": "OUTROS TRABALHADORES DE SERVIÇOS DIVERSOS"
+    }
+  ],
+  "52": [
+    {
+      "codigo": "520",
+      "nome": "SUPERVISORES DE VENDAS E DE PRESTAÇÃO DE SERVIÇOS"
+    },
+    {
+      "codigo": "521",
+      "nome": "VENDEDORES E DEMONSTRADORES"
+    },
+    {
+      "codigo": "522",
+      "nome": "REPOSITORES E REMARCADORES DO COMÉRCIO"
+    },
+    {
+      "codigo": "523",
+      "nome": "INSTALADORES DE PRODUTOS E ACESSÓRIOS"
+    },
+    {
+      "codigo": "524",
+      "nome": "VENDEDORES A DOMICÍLIO, AMBULANTES E EM BANCAS"
+    }
+  ],
+  "61": [
+    {
+      "codigo": "611",
+      "nome": "PRODUTORES AGROPECUÁRIOS EM GERAL"
+    },
+    {
+      "codigo": "612",
+      "nome": "PRODUTORES AGRÍCOLAS"
+    },
+    {
+      "codigo": "613",
+      "nome": "PRODUTORES EM PECUÁRIA"
+    }
+  ],
+  "62": [
+    {
+      "codigo": "620",
+      "nome": "SUPERVISORES NA EXPLORAÇÃO AGROPECUÁRIA"
+    },
+    {
+      "codigo": "621",
+      "nome": "TRABALHADORES NA EXPLORAÇÃO AGROPECUÁRIA EM GERAL"
+    },
+    {
+      "codigo": "622",
+      "nome": "TRABALHADORES AGRÍCOLAS"
+    },
+    {
+      "codigo": "623",
+      "nome": "TRABALHADORES NA PECUÁRIA"
+    }
+  ],
+  "63": [
+    {
+      "codigo": "630",
+      "nome": "SUPERVISORES NA EXPLORAÇÃO FLORESTAL E PESCA"
+    },
+    {
+      "codigo": "631",
+      "nome": "PESCADORES E CAÇADORES"
+    },
+    {
+      "codigo": "632",
+      "nome": "EXTRATIVISTAS FLORESTAIS"
+    }
+  ],
+  "64": [
+    {
+      "codigo": "641",
+      "nome": "TRABALHADORES DA MECANIZAÇÃO AGROPECUÁRIA"
+    },
+    {
+      "codigo": "642",
+      "nome": "TRABALHADORES DA MECANIZAÇÃO FLORESTAL"
+    },
+    {
+      "codigo": "643",
+      "nome": "TRABALHADORES DA IRRIGAÇÃO E DRENAGEM"
+    }
+  ],
+  "71": [
+    {
+      "codigo": "710",
+      "nome": "SUPERVISORES DA EXTRAÇÃO MINERAL E DA CONSTRUÇÃO CIVIL"
+    },
+    {
+      "codigo": "711",
+      "nome": "TRABALHADORES DA EXTRAÇÃO MINERAL"
+    },
+    {
+      "codigo": "712",
+      "nome": "TRABALHADORES DE BENEFICIAMENTO DE MINÉRIOS E PEDRAS ORNAMENTAIS"
+    },
+    {
+      "codigo": "715",
+      "nome": "TRABALHADORES DA CONSTRUÇÃO CIVIL E OBRAS PÚBLICAS"
+    },
+    {
+      "codigo": "716",
+      "nome": "TRABALHADORES DE ACABAMENTO DE OBRAS"
+    },
+    {
+      "codigo": "717",
+      "nome": "AJUDANTES DE OBRAS"
+    }
+  ],
+  "72": [
+    {
+      "codigo": "720",
+      "nome": "SUPERVISORES DA TRANSFORMAÇÃO DE METAIS E DE COMPÓSITOS"
+    },
+    {
+      "codigo": "721",
+      "nome": "TRABALHADORES DE USINAGEM DE METAIS E DE COMPÓSITOS"
+    },
+    {
+      "codigo": "722",
+      "nome": "TRABALHADORES DE CONFORMAÇÃO DE METAIS E DE COMPÓSITOS"
+    },
+    {
+      "codigo": "723",
+      "nome": "TRABALHADORES DE TRATAMENTO TÉRMICO E DE SUPERFÍCIES DE METAIS E DE COMPÓSITOS"
+    },
+    {
+      "codigo": "724",
+      "nome": "TRABALHADORES DE MONTAGEM DE TUBULAÇÕES, ESTRUTURAS METÁLICAS E DE COMPÓSITOS"
+    },
+    {
+      "codigo": "725",
+      "nome": "MONTADORES DE MÁQUINAS E APARELHOS MECÂNICOS"
+    }
+  ],
+  "73": [
+    {
+      "codigo": "730",
+      "nome": "SUPERVISORES DE MONTAGENS E INSTALAÇÕES ELETROELETRÔNICAS"
+    },
+    {
+      "codigo": "731",
+      "nome": "MONTADORES E INSTALADORES DE EQUIPAMENTOS ELETROELETRÔNICOS EM GERAL"
+    },
+    {
+      "codigo": "732",
+      "nome": "INSTALADORES E REPARADORES DE LINHAS E CABOS ELÉTRICOS E DE COMUNICAÇÕES"
+    }
+  ],
+  "74": [
+    {
+      "codigo": "740",
+      "nome": "SUPERVISORES DA MECÂNICA DE PRECISÃO E INSTRUMENTOS MUSICAIS"
+    },
+    {
+      "codigo": "741",
+      "nome": "MONTADORES E AJUSTADORES DE INSTRUMENTOS DE PRECISÃO"
+    },
+    {
+      "codigo": "742",
+      "nome": "MONTADORES E AJUSTADORES DE INSTRUMENTOS MUSICAIS"
+    }
+  ],
+  "75": [
+    {
+      "codigo": "750",
+      "nome": "SUPERVISORES DE JOALHERIA, VIDRARIA, CERÂMICA E AFINS"
+    },
+    {
+      "codigo": "751",
+      "nome": "JOALHEIROS E OURIVES"
+    },
+    {
+      "codigo": "752",
+      "nome": "VIDREIROS, CERAMISTAS E AFINS"
+    }
+  ],
+  "76": [
+    {
+      "codigo": "760",
+      "nome": "SUPERVISORES NAS INDÚSTRIAS TÊXTIL, DO CURTIMENTO, DO VESTUÁRIO E DAS ARTES GRÁFICAS"
+    },
+    {
+      "codigo": "761",
+      "nome": "TRABALHADORES DAS INDUSTRIAS TÊXTEIS"
+    },
+    {
+      "codigo": "762",
+      "nome": "TRABALHADORES DO TRATAMENTO DE COUROS E PELES"
+    },
+    {
+      "codigo": "763",
+      "nome": "TRABALHADORES DA CONFECÇÃO DE ROUPAS"
+    },
+    {
+      "codigo": "764",
+      "nome": "TRABALHADORES DA CONFECÇÃO DE CALÇADOS"
+    },
+    {
+      "codigo": "765",
+      "nome": "TRABALHADORES DA CONFECÇÃO DE ARTEFATOS DE TECIDOS E COUROS"
+    },
+    {
+      "codigo": "766",
+      "nome": "TRABALHADORES DA PRODUÇÃO GRÁFICA"
+    },
+    {
+      "codigo": "768",
+      "nome": "TRABALHADORES ARTESANAIS DAS ATIVIDADES TÊXTEIS, DO VESTUÁRIO E DAS ARTES GRÁFICAS"
+    }
+  ],
+  "77": [
+    {
+      "codigo": "770",
+      "nome": "SUPERVISORES EM INDÚSTRIA DE MADEIRA, MOBILIÁRIO E DA CARPINTARIA VEICULAR"
+    },
+    {
+      "codigo": "771",
+      "nome": "MARCENEIROS E AFINS"
+    },
+    {
+      "codigo": "772",
+      "nome": "TRABALHADORES DA PREPARAÇÃO DA MADEIRA"
+    },
+    {
+      "codigo": "773",
+      "nome": "TRABALHADORES DA TRANSFORMAÇÃO DA MADEIRA E DA FABRICAÇÃO DO MOBILIÁRIO"
+    },
+    {
+      "codigo": "774",
+      "nome": "TRABALHADORES DE MONTAGEM DE MÓVEIS E ARTEFATOS DE MADEIRA"
+    },
+    {
+      "codigo": "775",
+      "nome": "TRABALHADORES EM ACABAMENTO DE MADEIRA E DE MOBILIÁRIO"
+    },
+    {
+      "codigo": "776",
+      "nome": "TRABALHADORES ARTESANAIS DA MADEIRA E DO MOBILIÁRIO"
+    },
+    {
+      "codigo": "777",
+      "nome": "TRABALHADORES DA CARPINTARIA VEICULAR"
+    }
+  ],
+  "78": [
+    {
+      "codigo": "780",
+      "nome": "SUPERVISORES DE TRABALHADORES DE EMBALAGEM E ETIQUETAGEM"
+    },
+    {
+      "codigo": "781",
+      "nome": "OPERADORES DE ROBÔS E EQUIPAMENTOS ESPECIAIS"
+    },
+    {
+      "codigo": "782",
+      "nome": "CONDUTORES DE VEÍCULOS E OPERADORES DE EQUIPAMENTOS DE ELEVAÇÃO E DE MOVIMENTAÇÃO DE CARGAS"
+    },
+    {
+      "codigo": "783",
+      "nome": "TRABALHADORES DE MANOBRAS SOBRE TRILHOS E MOVIMENTAÇÃO E CARGAS"
+    },
+    {
+      "codigo": "784",
+      "nome": "EMBALADORES E ALIMENTADORES DE PRODUÇÃO"
+    }
+  ],
+  "79": [
+    {
+      "codigo": "791",
+      "nome": "TRABALHADORES DO ARTESANATO URBANO E RURAL"
+    }
+  ],
+  "81": [
+    {
+      "codigo": "810",
+      "nome": "SUPERVISORES DE PRODUÇÃO, EM INDÚSTRIAS QUÍMICAS, PETROQUÍMICAS E AFINS"
+    },
+    {
+      "codigo": "811",
+      "nome": "OPERADORES DE INSTALAÇÕES EM INDÚSTRIAS QUÍMICAS, PETROQUÍMICAS E AFINS"
+    },
+    {
+      "codigo": "812",
+      "nome": "TRABALHADORES DA FABRICAÇÃO DE MUNIÇÃO E EXPLOSIVOS QUÍMICOS"
+    },
+    {
+      "codigo": "813",
+      "nome": "OPERADORES DE OUTRAS INSTALAÇÕES QUÍMICAS, PETROQUÍMICAS E AFINS"
+    },
+    {
+      "codigo": "818",
+      "nome": "OPERADORES DE OPERAÇÃO UNITÁRIA DE LABORATÓRIO (TRANSVERSAL PARA TODA INDÚSTRIA DE PROCESSOS)"
+    }
+  ],
+  "82": [
+    {
+      "codigo": "820",
+      "nome": "SUPERVISORES DE PRODUÇÃO EM INDÚSTRIAS SIDERÚRGICAS"
+    },
+    {
+      "codigo": "821",
+      "nome": "OPERADORES DE INSTALAÇÕES E EQUIPAMENTOS DE PRODUÇÃO DE METAIS E LIGAS- PRIMEIRA FUSÃO"
+    },
+    {
+      "codigo": "822",
+      "nome": "OPERADORES DE INSTALAÇÕES E EQUIPAMENTOS DE PRODUÇÃO DE METAIS E LIGAS- SEGUNDA FUSÃO"
+    },
+    {
+      "codigo": "823",
+      "nome": "TRABALHADORES DE INSTALAÇÕES E EQUIPAMENTOS DE MATERIAL DE CONSTRUÇÃO, CERÂMICA E VIDRO"
+    },
+    {
+      "codigo": "828",
+      "nome": "TRABALHADORES ARTESANAIS DA SIDERURGIA E DE MATERIAIS DE CONSTRUÇÃO"
+    }
+  ],
+  "83": [
+    {
+      "codigo": "830",
+      "nome": "SUPERVISORES DA FABRICAÇÃO DE CELULOSE E PAPEL"
+    },
+    {
+      "codigo": "831",
+      "nome": "TRABALHADORES DA PREPARAÇÃO DE PASTA DE PAPEL"
+    },
+    {
+      "codigo": "832",
+      "nome": "TRABALHADORES DA FABRICAÇÃO DE PAPEL"
+    },
+    {
+      "codigo": "833",
+      "nome": "CONFECCIONADORES DE PRODUTOS DE PAPEL E PAPELÃO"
+    }
+  ],
+  "84": [
+    {
+      "codigo": "840",
+      "nome": "SUPERVISORES DA FABRICAÇÃO DE ALIMENTOS, BEBIDAS E FUMO"
+    },
+    {
+      "codigo": "841",
+      "nome": "OPERADORES DE EQUIPAMENTOS NA PREPARAÇÃO DE ALIMENTOS E BEBIDAS"
+    },
+    {
+      "codigo": "842",
+      "nome": "OPERADORES NA PREPARAÇÃO DE FUMO E NA FABRICAÇÃO DE CHARUTOS E CIGARROS"
+    },
+    {
+      "codigo": "848",
+      "nome": "TRABALHADORES ARTESANAIS NA  AGROINDÚSTRIA, NA INDÚSTRIA DE ALIMENTOS E DO FUMO"
+    }
+  ],
+  "86": [
+    {
+      "codigo": "860",
+      "nome": "SUPERVISORES DA PRODUÇÃO DE UTILIDADES"
+    },
+    {
+      "codigo": "861",
+      "nome": "OPERADORES NA GERAÇÃO E DISTRIBUIÇÃO DE ENERGIA (CENTRAIS HIDRELÉTRICAS, TERMELÉTRICAS E NUCLEARES)"
+    },
+    {
+      "codigo": "862",
+      "nome": "OPERADORES DE UTILIDADES"
+    }
+  ],
+  "87": [
+    {
+      "codigo": "871",
+      "nome": "OPERADORES DE OUTRAS INSTALAÇÕES INDUSTRIAIS"
+    }
+  ],
+  "91": [
+    {
+      "codigo": "910",
+      "nome": "SUPERVISORES EM SERVIÇOS DE REPARAÇÃO E MANUTENÇÃO MECÂNICA"
+    },
+    {
+      "codigo": "911",
+      "nome": "MECÂNICOS DE MANUTENÇÃO DE MÁQUINAS E EQUIPAMENTOS INDUSTRIAIS, COMERCIAIS E RESIDENCIAIS"
+    },
+    {
+      "codigo": "913",
+      "nome": "MECÂNICOS DE MANUTENÇÃO DE MÁQUINAS PESADAS E EQUIPAMENTOS AGRÍCOLAS"
+    },
+    {
+      "codigo": "914",
+      "nome": "MECÂNICOS DE MANUTENÇÃO VEICULAR"
+    },
+    {
+      "codigo": "915",
+      "nome": "REPARADORES DE INSTRUMENTOS E EQUIPAMENTOS DE PRECISÃO"
+    },
+    {
+      "codigo": "919",
+      "nome": "OUTROS TRABALHADORES NA REPARAÇÃO E MANUTENÇÃO DE EQUIPAMENTOS"
+    }
+  ],
+  "95": [
+    {
+      "codigo": "950",
+      "nome": "SUPERVISORES DE MANUTENÇÃO ELETROELETRÔNICA E ELETROMECÂNICA"
+    },
+    {
+      "codigo": "951",
+      "nome": "ELETRICISTAS ELETRÔNICOS DE MANUTENÇÃO INDUSTRIAL, COMERCIAL E RESIDENCIAL"
+    },
+    {
+      "codigo": "953",
+      "nome": "ELETRICISTAS ELETRÔNICOS DE MANUTENÇÃO VEICULAR"
+    },
+    {
+      "codigo": "954",
+      "nome": "MANTENEDORES ELETROMECÂNICOS"
+    }
+  ],
+  "99": [
+    {
+      "codigo": "991",
+      "nome": "OUTROS TRABALHADORES DA CONSERVAÇÃO E MANUTENÇÃO (EXCETO TRABALHADORES ELEMENTARES)"
+    },
+    {
+      "codigo": "992",
+      "nome": "TRABALHADORES ELEMENTARES DA MANUTENÇÃO"
+    }
+  ]
+}
